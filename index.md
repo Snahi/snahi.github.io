@@ -11,7 +11,8 @@
     <meta name="author" content="Jan Niemczyk">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-	<meta property="og:title"              content="When Great Minds Don’t Think Alike" />
+    <meta property="og:title" content="When Great Minds Don’t Think Alike" />
+    <meta property="og:image" content="http://static01.nyt.com/images/2015/02/19/arts/international/19iht-btnumbers19A/19iht-btnumbers19A-facebookJumbo-v2.jpg" />
 </head>
 <body>
 	<p>No elo</p>
