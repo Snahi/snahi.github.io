@@ -1,10 +1,9 @@
 <html lang="en">
 <head>
-	<title>Snavi's page</title>
-    <meta property="og:title" content="Snahi super tuper website"/>
-    <meta property="og:image" content="http://static01.nyt.com/images/2015/02/19/arts/international/19iht-btnumbers19A/19iht-btnumbers19A-facebookJumbo-v2.jpg"/>
+	<meta property="og:title" content="Snahi super tuper website"/>
 </head>
 <body>
+	<meta property="og:title" content="Snahi super tuper website"/>
 	<p>No elo</p>
 </body>
 </html>
